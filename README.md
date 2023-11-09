@@ -1,4 +1,4 @@
-# EGG : 시각화를 통한 논문 탐색 서비스
+# EGG (ExploreGenealogyGraph)<br/>  : 시각화를 통한 논문 탐색 서비스
 
 - Frontend : https://github.com/ay30n591/EGG_Frontend.git <br>
 - Backend : https://github.com/ay30n591/EGG_Backend.git <br>
@@ -201,4 +201,3 @@
 
 ### 9. 회고 및 후기
 
-#EGG_Project
